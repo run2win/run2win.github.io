@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F08%2F27%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[2017计划及年中总结]]></title>
+    <url>%2F2017%2F11%2F19%2F2017-resolutions%2F</url>
+    <content type="text"><![CDATA[题图：www.pexels.com 2017计划 早睡早起：22:30-06:00 坚持运动 跑步 8mins abs workout Push-Ups Sit-Ups Squats Plank 篮球 健身 读书：每月至少读一本书 英语：单词，听读说，口语 写作：公众号每周更新一篇 《经济学人》 读小库《一日一诵》 练习书法：每周一字 学习绘画：简笔画 学习4门MOOC课程 v1, 2017-01-09, Initial version v2, 2017-05-25, + Plank v3, 2017-08-21, + 健身，- 书法 年中总结 早睡早起 坚持运动 读书（一本未读） 英语（学了一周） 写作（一篇未写，这是第一篇） 《经济学人》（看了一期） 读小库《一日一诵》（45天21首） 练习书法：每周一字（未开始，放弃） 学习绘画：简笔画（未开始） 学习4门MOOC课程（未开始） 年底计划 今年即将过去8个月，三分之二时间只完成五分之一。2017还剩四个月，争取完成三分之一。&nbsp;&nbsp;2017年8月22日]]></content>
       <categories>
-        <category>DemoPost</category>
+        <category>Resolution</category>
       </categories>
       <tags>
-        <tag>Test, Demo</tag>
+        <tag>Resolution</tag>
       </tags>
   </entry>
 </search>

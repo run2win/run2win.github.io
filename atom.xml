@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://run2win.github.io/"/>
-  <updated>2017-09-04T14:54:29.000Z</updated>
+  <updated>2017-11-19T15:32:11.000Z</updated>
   <id>http://run2win.github.io/</id>
   
   <author>
@@ -16,40 +16,71 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://run2win.github.io/2017/08/27/hello-world/"/>
-    <id>http://run2win.github.io/2017/08/27/hello-world/</id>
-    <published>2017-08-27T13:41:32.000Z</published>
-    <updated>2017-09-04T14:54:29.000Z</updated>
+    <title>2017计划及年中总结</title>
+    <link href="http://run2win.github.io/2017/11/19/2017-resolutions/"/>
+    <id>http://run2win.github.io/2017/11/19/2017-resolutions/</id>
+    <published>2017-11-19T14:22:11.000Z</published>
+    <updated>2017-11-19T15:32:11.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<a id="more"></a>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p><img src="/2017/11/19/2017-resolutions/scrabble-resolutions.jpg" alt="scrabble-resolutions"><br>题图：www.pexels.com  </p>
+<p><strong>2017计划</strong></p>
+<ol>
+<li>早睡早起：22:30-06:00</li>
+<li>坚持运动<ul>
+<li>跑步</li>
+<li>8mins abs workout</li>
+<li>Push-Ups</li>
+<li>Sit-Ups</li>
+<li>Squats</li>
+<li>Plank</li>
+<li>篮球</li>
+<li>健身</li>
+</ul>
+</li>
+<li>读书：每月至少读一本书</li>
+<li>英语：单词，听读说，口语</li>
+<li>写作：公众号每周更新一篇</li>
+<li>《经济学人》</li>
+<li>读小库《一日一诵》</li>
+<li><del>练习书法：每周一字</del></li>
+<li>学习绘画：简笔画</li>
+<li>学习4门MOOC课程</li>
+</ol>
+<hr>
+<ul>
+<li>v1, 2017-01-09, Initial version  </li>
+<li>v2, 2017-05-25, + Plank  </li>
+<li>v3, 2017-08-21, + 健身，- 书法  </li>
+</ul>
+<hr>
+<p><strong>年中总结</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox" checked> 早睡早起</li>
+<li style="list-style: none"><input type="checkbox" checked> 坚持运动</li>
+<li style="list-style: none"><input type="checkbox"> 读书（<strong>一本未读</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 英语（<strong>学了一周</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 写作（<strong>一篇未写，这是第一篇</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 《经济学人》（<strong>看了一期</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 读小库《一日一诵》（<strong>45天21首</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 练习书法：每周一字（<strong>未开始，放弃</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 学习绘画：简笔画（<strong>未开始</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 学习4门MOOC课程（<strong>未开始</strong>）</li>
+</ul>
+<p><strong>年底计划</strong>  </p>
+<p>今年即将过去8个月，三分之二时间只完成五分之一。<strong>2017还剩四个月，争取完成三分之一</strong>。<br>&nbsp;<br>&nbsp;<br>2017年8月22日</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo generate&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/2017/11/19/2017-resolutions/scrabble-resolutions.jpg&quot; alt=&quot;scrabble-resolutions&quot;&gt;&lt;br&gt;题图：www.pexels.com  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2017计划
     
     </summary>
     
-      <category term="DemoPost" scheme="http://run2win.github.io/categories/DemoPost/"/>
+      <category term="Resolution" scheme="http://run2win.github.io/categories/Resolution/"/>
     
     
-      <category term="Test, Demo" scheme="http://run2win.github.io/tags/Test-Demo/"/>
+      <category term="Resolution" scheme="http://run2win.github.io/tags/Resolution/"/>
     
   </entry>
   
