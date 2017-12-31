@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://run2win.github.io/"/>
-  <updated>2017-11-19T15:32:11.000Z</updated>
+  <updated>2017-12-31T15:55:01.000Z</updated>
   <id>http://run2win.github.io/</id>
   
   <author>
@@ -16,13 +16,102 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2017计划及年中总结</title>
-    <link href="http://run2win.github.io/2017/11/19/2017-resolutions/"/>
-    <id>http://run2win.github.io/2017/11/19/2017-resolutions/</id>
-    <published>2017-11-19T14:22:11.000Z</published>
-    <updated>2017-11-19T15:32:11.000Z</updated>
+    <title>2017总结</title>
+    <link href="http://run2win.github.io/2017/12/31/2017-review/"/>
+    <id>http://run2win.github.io/2017/12/31/2017-review/</id>
+    <published>2017-12-31T14:15:09.000Z</published>
+    <updated>2017-12-31T15:55:01.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2017/11/19/2017-resolutions/scrabble-resolutions.jpg" alt="scrabble-resolutions"><br>题图：www.pexels.com  </p>
+    <content type="html"><![CDATA[<p><img src="/2017/12/31/2017-review/not-done.jpg" alt="not-done"><br>题图：黄埔军校，2017年9月。</p>
+<p>上文<a href="https://run2win.github.io/2017/11/20/2017-resolutions/">《2017计划及年中总结》</a>写道：</p>
+<blockquote>
+<p><strong>2017计划</strong></p>
+<ol>
+<li>早睡早起：22:30-06:00</li>
+<li>坚持运动<ul>
+<li>跑步</li>
+<li>8mins abs workout</li>
+<li>Push-Ups</li>
+<li>Sit-Ups</li>
+<li>Squats</li>
+<li>Plank</li>
+<li>篮球</li>
+<li>健身</li>
+</ul>
+</li>
+<li>读书：每月至少读一本书</li>
+<li>英语：单词，听读说，口语</li>
+<li>写作：公众号每周更新一篇</li>
+<li>《经济学人》</li>
+<li>读小库《一日一诵》</li>
+<li><del>练习书法：每周一字</del></li>
+<li>学习绘画：简笔画</li>
+<li>学习4门MOOC课程</li>
+</ol>
+<hr>
+<ul>
+<li>v1, 2017-01-09, Initial version  </li>
+<li>v2, 2017-05-25, + Plank  </li>
+<li>v3, 2017-08-21, + 健身，- 书法  </li>
+</ul>
+</blockquote>
+<p>&nbsp;  </p>
+<blockquote>
+<p><strong>年底计划</strong>  </p>
+<p>今年即将过去8个月，三分之二时间只完成五分之一。<strong>2017还剩四个月，争取完成三分之一</strong>。  </p>
+</blockquote>
+<p><strong>2017年计划完成情况</strong></p>
+<ul>
+<li style="list-style: none"><input type="checkbox" checked> 早睡早起</li>
+<li style="list-style: none"><input type="checkbox" checked> 坚持运动<ul>
+<li>8mins abs workout</li>
+<li>健身</li>
+</ul>
+</li>
+<li style="list-style: none"><input type="checkbox"> 读书（<strong>6本</strong>）<ul>
+<li>《三体》I、II、III</li>
+<li>《不能错过的英语启蒙》</li>
+<li>《黄金时代》</li>
+<li>《动物农场》</li>
+</ul>
+</li>
+<li style="list-style: none"><input type="checkbox"> 英语（<strong>学了一周</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 写作（<strong>2篇</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 《经济学人》（<strong>1期</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 读小库《一日一诵》（<strong>45天21首</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 练习书法：每周一字（<strong>未开始</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 学习绘画：简笔画（<strong>未开始</strong>）</li>
+<li style="list-style: none"><input type="checkbox"> 学习4门MOOC课程（<strong>1门</strong>）<ul>
+<li>《Learning How to Learn: Powerful mental tools to help you master tough subjects》</li>
+</ul>
+</li>
+</ul>
+<p>整体看来，客观评价，2017年可以打30分。（其中9~12月60分）  </p>
+<p><strong>明天开始要及时总结、反思、调整，并执行。</strong><br><strong>不然浑浑噩噩，一下子半年、一年就悄然过去，回首年初计划，只剩感慨。</strong><br><strong>如题图，革命尚未成功，同志们仍需努力！</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/12/31/2017-review/not-done.jpg&quot; alt=&quot;not-done&quot;&gt;&lt;br&gt;题图：黄埔军校，2017年9月。&lt;/p&gt;
+&lt;p&gt;上文&lt;a href=&quot;https://run2win.github.io/2017/11/2
+    
+    </summary>
+    
+      <category term="Resolution" scheme="http://run2win.github.io/categories/Resolution/"/>
+    
+    
+      <category term="Resolution" scheme="http://run2win.github.io/tags/Resolution/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2017计划及年中总结</title>
+    <link href="http://run2win.github.io/2017/11/20/2017-resolutions/"/>
+    <id>http://run2win.github.io/2017/11/20/2017-resolutions/</id>
+    <published>2017-11-20T11:22:11.000Z</published>
+    <updated>2017-11-20T12:34:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2017/11/20/2017-resolutions/scrabble-resolutions.jpg" alt="scrabble-resolutions"><br>题图：www.pexels.com  </p>
 <p><strong>2017计划</strong></p>
 <ol>
 <li>早睡早起：22:30-06:00</li>
@@ -72,7 +161,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2017/11/19/2017-resolutions/scrabble-resolutions.jpg&quot; alt=&quot;scrabble-resolutions&quot;&gt;&lt;br&gt;题图：www.pexels.com  &lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/2017/11/20/2017-resolutions/scrabble-resolutions.jpg&quot; alt=&quot;scrabble-resolutions&quot;&gt;&lt;br&gt;题图：www.pexels.com  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2017计划
     
     </summary>
